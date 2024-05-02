@@ -41,18 +41,20 @@ int main()
 
     //***************************************************
 
-    vector<string> v;
-    for (int i = 0; i < 3; i++)
-    {
-        string name;
-        cout << "Enter name : ";
-        cin >> name;
-        v.push_back(name);
-    }
+    // vector<string> v;
+    // for (int i = 0; i < 3; i++)
+    // {
+    //     string name;
+    //     cout << "Enter name : ";
+    //     cin >> name;
+    //     v.push_back(name);
+    // }
 
-    for (int i = 0; i < v.size(); i++)
-    {
-        int size = v[i].size();
-        cout << "size of name is :" << size << endl;
-    }
+    // for (int i = 0; i < v.size(); i++)
+    // {
+    //     int size = v[i].size();
+    //     cout << "size of name is :" << size << endl;
+    // }
+
+    //*********************************************************
 }
