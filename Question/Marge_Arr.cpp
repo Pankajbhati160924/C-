@@ -10,8 +10,7 @@ int main()
     cout << "Enter your Second value : ";
     cin >> y;
 
-    cout << endl
-         << "***********First value user input ************ " << endl;
+    cout << "***********First value user input ************ " << endl;
 
     vector<int> arr(x);
     vector<int> arr2(y);
