@@ -35,6 +35,6 @@ int main()
 
     for (int i = 0; i < Marge_Vector_arr.size(); i++)
     {
-        cout << Marge_Vector_arr[i];
+        cout << Marge_Vector_arr[i] << " ";
     }
 }
